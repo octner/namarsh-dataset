@@ -8,3 +8,4 @@ This code can be modified, published, used or reused. The cod was used when coll
 The code is stored in the Jupyther format and can be run using Google Colab or Kaggle via browser, locally-run Python or any kind of programming software (e.g., PyCharm). For more convenience, a regul
 
 ## Files
+The namarsh-data-wrangling.ipynb is a Jupyther notebook that contains the steps used when extracting data from News of Protest section.
