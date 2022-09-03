@@ -8,7 +8,9 @@ This code can be modified, published, used or reused. The cod was used when coll
 The code is stored in the Jupyther format and can be run using Google Colab or Kaggle via browser, locally-run Python or any kind of programming software (e.g., PyCharm). For more convenience, a regul
 
 ## Files
-The namarsh-data-wrangling.ipynb file is a Jupyther notebook that contains the steps used when extracting data from News of Protest section.
+The namarsh-news-of-protest.ipynb file is a Jupyther notebook that contains the steps used when extracting data from News of Protest section.
+
+The namarsh-translate.ipynb file is a Jupyther notebook that was used to translate the dataset (https://github.com/Animenosekai/translate is the library)
 
 The towns.csv file is a list of Russian localities that was used to extract location data from the description part of the News of Protest section.
 
