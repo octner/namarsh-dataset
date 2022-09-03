@@ -9,5 +9,7 @@ The code is stored in the Jupyther format and can be run using Google Colab or K
 
 ## Files
 The namarsh-data-wrangling.ipynb file is a Jupyther notebook that contains the steps used when extracting data from News of Protest section.
+
 The towns.csv file is a list of Russian localities that was used to extract location data from the description part of the News of Protest section.
+
 The supplementary folder contains reports written by namarsh for the website in .txt format for further analysis. It also contains .csv files from the dataset for the Forthcoming Events and News of Protest subsections.
